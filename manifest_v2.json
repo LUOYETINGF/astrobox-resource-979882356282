@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "979882356282",
+    "restype": "watchface",
+    "name": "简约线条",
+    "description": "简约线条表盘，提供多功能，多种数据自定义\n2.0更新日志：增加小爱动态，增加更多自定义",
+    "preview": [
+      "media/30025.jpg",
+      "media/30026.jpg"
+    ],
+    "icon": "media/30200.jpg",
+    "cover": "media/30201.jpg",
+    "author": [
+      {
+        "name": "LUOYETINGFENG",
+        "bindABAccount": true
+      },
+      {
+        "name": "落叶听枫",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "2",
+      "file_name": "downloads/10简约线条.bin",
+      "versionCode": 2
+    },
+    "xmb10nfc": {
+      "version": "2",
+      "file_name": "downloads/10简约线条.bin",
+      "versionCode": 2
+    }
+  },
+  "ext": {}
+}
